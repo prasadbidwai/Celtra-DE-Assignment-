@@ -18,8 +18,10 @@ Technologies:
 
 How to use:
 -------------
-1. NPM install
-2. node app.js
+1. Install Node.Js
+2. Install MongoDB & start server
+3. npm install
+4. npm start
 3. server will start running on port 3000
 4. base URL: http://localhost:3000/analytics/jobs
 
