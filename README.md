@@ -18,10 +18,10 @@ Technologies:
 
 How to use:
 -------------
-- 1. NPM install
-- 2. node app.js
-- 3. server will start running on port 3000
-- 4. base URL: http://localhost:3000/analytics/jobs
+1. NPM install
+2. node app.js
+3. server will start running on port 3000
+4. base URL: http://localhost:3000/analytics/jobs
 
 Application Insights:
 -------------
