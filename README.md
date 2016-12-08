@@ -3,7 +3,6 @@ Celtra Data Engineer Assignment
 
 - Completed By: Prasad Bidwai
 - Education: M.S.(Software Engineering), San Jose State University
-- Experience: Software Engineering Intern, Shutterfly Inc.   
 
 Usage: This project supports following HTTP request:
 -------------
